@@ -101,4 +101,4 @@ Du kannst dieses Repository gerne forken und eigene Änderungen vornehmen. Pull-
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE.md)-Datei für Details.
