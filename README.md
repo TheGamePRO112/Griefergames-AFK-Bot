@@ -21,8 +21,8 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
 1. **Repository klonen:**
 
     ```bash
-    git clone https://github.com/deinbenutzername/dein-repo-name.git
-    cd dein-repo-name
+    git clone https://github.com/TheGamePRO112/Griefergames-AFK-Bot
+    cd Griefergames-AFK-Bot
     ```
 
 
