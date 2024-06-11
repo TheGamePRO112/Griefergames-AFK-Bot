@@ -24,9 +24,11 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
     git clone https://github.com/TheGamePRO112/Griefergames-AFK-Bot
     cd Griefergames-AFK-Bot
     ```
+    ###oder
+   
+    ZIP Herunterladen
 
-
-2. **Abhängigkeiten installieren:**
+3. **Abhängigkeiten installieren:**
 
     ```bash
     npm install mineflayer
@@ -34,7 +36,7 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
     ```
 
 
-3. **Bot konfigurieren:**
+4. **Bot konfigurieren:**
 
     Öffne `bot.js` und fülle die folgenden Benutzerdaten aus:
 
@@ -52,7 +54,7 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
 
     **Hinweis:** Ändere den restlichen Code nicht.
 
-4. **Skript speichern.**
+5. **Skript speichern.**
 
 ## Bot starten
 
