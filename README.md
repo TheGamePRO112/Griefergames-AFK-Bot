@@ -30,8 +30,6 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
 
     ```bash
     npm install mineflayer
-    ```
-    ```bash
     npm install prismarine-viewer
     ```
 
