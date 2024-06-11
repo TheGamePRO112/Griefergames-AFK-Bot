@@ -26,7 +26,8 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
     ```
    **oder**
    
-    ZIP Herunterladen
+    ZIP Herunterladen (Klicke oben rechts auf den grünen Button "Code". Wähle "Download ZIP" aus dem Dropdown-Menü aus.)
+   
 
 3. **Abhängigkeiten installieren:**
 
