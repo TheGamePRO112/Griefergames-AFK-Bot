@@ -5,7 +5,7 @@ Dieses Repository enthält ein Skript zur Automatisierung von Aufgaben auf dem G
 ## Voraussetzungen
 
 - [Node.js](https://nodejs.org/) (Version 12 oder höher)
-- Ein Minecraft-Konto
+- Ein Minecraft-Konto, mit einen gültigem Minecraft account
 - Visual Studio Code (oder ein beliebiger Code-Editor mit Terminal-Unterstützung)
 
 ## Benötigte Abhängigkeiten
