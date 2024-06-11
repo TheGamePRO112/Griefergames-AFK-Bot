@@ -82,6 +82,7 @@ Der Bot kann über Konsolenbefehle gesteuert werden, wenn der Viewer aktiviert i
 - `j`: Springen
 - `q`: Nach links drehen
 - `e`: Nach rechts drehen
+- Es kann auch jeder Befehl oder ein Chat nachicht eingegeben werden, diese wird dann auch ausgeführt.
 
 Um eine Liste der unterstützten Befehle anzuzeigen, gib `!cmd` in die Konsole ein.
 
@@ -100,7 +101,7 @@ Um eine Liste der unterstützten Befehle anzuzeigen, gib `!cmd` in die Konsole e
 
 ## Mitwirken
 
-Du kannst dieses Repository gerne forken und eigene Änderungen vornehmen. Pull-Requests sind willkommen!
+Du kannst dieses Repository gerne folgen und eigene Änderungen vornehmen. Pull-Requests sind willkommen!
 
 ## Lizenz
 
