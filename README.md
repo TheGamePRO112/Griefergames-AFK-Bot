@@ -24,7 +24,7 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
     git clone https://github.com/TheGamePRO112/Griefergames-AFK-Bot
     cd Griefergames-AFK-Bot
     ```
-    ### oder
+   **oder**
    
     ZIP Herunterladen
 
