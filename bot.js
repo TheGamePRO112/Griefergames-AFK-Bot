@@ -222,7 +222,7 @@ async function joinGS(){
     console.log("Teleportiere zum GS...");
     await sleep(700)
     console.log("Der Bot ist nun Online!")
-    console.log("Version: 1.4")
+    console.log("Version: 1.4.0")
 
     const networkInterfaces = require('os').networkInterfaces();
     let ipv4Address;
@@ -257,10 +257,3 @@ async function joinGS(){
         }
     }
 }
-
-
-// - Sch-Server 1.4 upgrade
-// - Mabus haupt 1.4
-// - 
-// - 
-// - 
