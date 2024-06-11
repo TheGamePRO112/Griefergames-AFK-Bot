@@ -1,0 +1,33 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.4.0",
+  "description": "Ein GrieferGames-Bot- mit Mineflayer, Mineflayer Pathfinder und Prismarine Viewer",
+  "main": "bot.js.",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^2.4.5",
+    "prismarine-viewer": "^1.28.0"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "mineflayer",
+    "pathfinder",
+    "prismarine",
+    "grieferGgmes"
+  ],
+  "author": "The_GamePRO112",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGamePRO112/Griefergames-AFK-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheGamePRO112/Griefergames-AFK-Bot/issues"
+  },
+  "homepage": "https://github.com/TheGamePRO112/Griefergames-AFK-Bot"
+}
