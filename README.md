@@ -32,8 +32,7 @@ Diese Abhängigkeiten werden bei der Installation automatisch heruntergeladen.
 3. **Abhängigkeiten installieren:**
 
     ```bash
-    npm install mineflayer
-    npm install prismarine-viewer
+    npm install mineflayer prismarine-viewer mineflayer-pathfinder
     ```
 
 
